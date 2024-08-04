@@ -1,0 +1,7 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/NoCustomWeaponsCustomization/FileContentIndex
+/.vs/NoCustomWeaponsCustomization/v17
+/packages/
