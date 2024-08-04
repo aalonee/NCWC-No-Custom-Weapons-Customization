@@ -5,7 +5,7 @@ NCWC:
   is_enabled: true
   debug: false
   message: '<color=red>You can''t edit attachments of custom weapons.'
-  # List of custom weapons IDs which you can edit
+  # The list of IDs of custom weapons, attachments of which can be changed
   weapons_whitelist:
     - 1
     - 2
