@@ -13,7 +13,7 @@ namespace NoCustomWeaponsCustomization
         public bool IsEnabled { get; set; } = true;
         public bool Debug { get; set; } = false;
         public string Message { get; set; } = "<color=red>You can't edit attachments of custom weapons.";
-        [Description("List of custom weapons IDs which you can edit")]
+        [Description("The list of IDs of custom weapons, attachments of which can be changed")]
         public List<uint> WeaponsWhitelist { get; set; } = new List<uint>();
     }
 }
